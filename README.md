@@ -1,4 +1,4 @@
-##중간고사: 클러스터링 분석 문제
+#중간고사: 클러스터링 분석 문제
 #학습관리시스템에 자신의 Python 코드와 데이터 파일이 저장된 github classroom repository link를 제출하시오 (코드는 github codespace에서 실행되어야 함)
 #과제 마감: 04.26 (금) 15:00
 
